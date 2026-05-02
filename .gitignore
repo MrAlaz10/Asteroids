@@ -8,8 +8,6 @@ wheels/
 game_state.jsonl
 .idea
 .python-version
-pyproject.toml
-uv.lock
 
 
 # Virtual environments
