@@ -7,7 +7,6 @@ wheels/
 *.egg-info
 game_state.jsonl
 .idea
-.python-version
 
 
 # Virtual environments
